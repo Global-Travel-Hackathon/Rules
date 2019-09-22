@@ -1,10 +1,12 @@
 # Rules
-`Global Travel Hackathon Rules`
+Global Travel Hackathon Rules
+
+Please :pray:, read it carefully. If you have any questions, feel free to ask the organizers or your mentor.
 
 ## :warning: Eligibility
 
 * Attendees from all backgrounds, genders, and geographies are welcome. 
-* Every member of the team must be 18 years or older on the day of the event
+* Every member of the team must be 18 years or older on the day of the event.
 
 ## :balloon: Team Formation
 
@@ -64,7 +66,7 @@ All teams must create a repo on GitHub for their project and the README.md file 
 
 To make it easier, we have created :point_right: this [repo](https://github.com/Global-Travel-Hackathon/GTH-Location-TeamName) for you. Feel free to fork and modify it. :tada:
 
-:exclamation: `All projects should be submitted before [TIME], by sending an email to globalhack@kiwi.com with the subject [Team name]: [Project name] project for the Global Travel Hackathon and the body of the email must have the link of your project GH repo.` :exclamation:
+:exclamation: All projects should be submitted before [TIME], by sending an email to <globalhack@kiwi.com> with the subject [Team name]: [Project name] project for the Global Travel Hackathon and the body of the email must have the link of your project GH repo. :exclamation:
 
 Failure to submit will result in disqualification. You should commit regularly throughout the hackathon to the team repository, but if we see a single GitHub commit made near the end of the hackathon will draw the suspicion that the work was not completed at the hackathon.
 
