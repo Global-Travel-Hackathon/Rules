@@ -70,3 +70,5 @@ To make it easier, we have created :point_right: this [repo](https://github.com/
 
 Failure to submit will result in disqualification. You should commit regularly throughout the hackathon to the team repository, but if we see a single GitHub commit made near the end of the hackathon will draw the suspicion that the work was not completed at the hackathon.
 
+![](https://media.giphy.com/media/j0MLDsJIKioY8/giphy.gif)
+
