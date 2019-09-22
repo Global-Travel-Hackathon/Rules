@@ -1,5 +1,5 @@
 # Rules
-Global Travel Hackathon Rules
+`Global Travel Hackathon Rules`
 
 ## :warning: Eligibility
 
@@ -62,9 +62,9 @@ All teams must create a repo on GitHub for their project and the README.md file 
 - [X] Any components not created at the hackathon
 - [X] Licence/s
 
-To make it easier, we have created this [repo](https://github.com/Global-Travel-Hackathon/GTH-Location-TeamName), feel free to fork and modify it.
+To make it easier, we have created :point_right: this [repo](https://github.com/Global-Travel-Hackathon/GTH-Location-TeamName) for you. Feel free to fork and modify it. :tada:
 
-All projects should be submitted before [TIME], by sending an email to globalhack@kiwi.com with the subject [Team name]: [Project name] project for the Global Travel Hackathon and the body of the email must have the link of your project GH repo.
+:exclamation: `All projects should be submitted before [TIME], by sending an email to globalhack@kiwi.com with the subject [Team name]: [Project name] project for the Global Travel Hackathon and the body of the email must have the link of your project GH repo.` :exclamation:
 
 Failure to submit will result in disqualification. You should commit regularly throughout the hackathon to the team repository, but if we see a single GitHub commit made near the end of the hackathon will draw the suspicion that the work was not completed at the hackathon.
 
